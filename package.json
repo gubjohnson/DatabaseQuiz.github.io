@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "PHP practical projects",
   "main": "index.js",
-  "homepage": "https://gubjohnson.github.io/databaseQuiz/",
+  "homepage": "https://gubjohnson.github.io/databaseQuiz/login.php",
   "scripts": {
     "deploy": "gh-pages -d dist"
   },
