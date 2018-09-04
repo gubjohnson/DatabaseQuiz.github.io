@@ -3,9 +3,13 @@
   "version": "1.0.0",
   "description": "PHP practical projects",
   "main": "index.js",
+  "homepage": "https://gubjohnson.github.io/databaseQuiz/",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages -d dist"
   },
   "author": "Johnny Chen",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^1.2.0"
+  }
 }
